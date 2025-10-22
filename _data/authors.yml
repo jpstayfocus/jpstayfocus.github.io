@@ -5,19 +5,19 @@ Caleb Curry:
     links:
         - label: 'Email'
           icon: 'fas fa-fw fa-envelope-square'
-          url: 'mailto:caleb@calebcurry.com'
+          url: 'mailto:jpstayfocus@gmail.com'
         - label: 'GitHub'
           icon: 'fas fa-fw fa-link'
-          url: 'https://github.com/calebcurry'
+          url: 'https://github.com/jpstayfocus'
         - label: 'YouTube'
           icon: 'fas fa-fw fa-link'
-          url: 'https://www.youtube.com/c/CalebTheVideoMaker2'
+          url: 'https://www.youtube.com/'
         - label: 'LinkedIn'
           icon: 'fas fa-fw fa-link'
-          url: 'https://www.linkedin.com/in/calebcurry/'
+          url: 'https://www.linkedin.com'
         - label: 'Twitter'
           icon: 'fas fa-fw fa-link'
-          url: 'https://twitter.com/CalebCurry'
+          url: 'https://twitter.com/'
 
         #- label: "Website"
         #  icon: "fas fa-fw fa-link"
