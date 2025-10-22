@@ -12,7 +12,7 @@ author: Caleb Curry
 
 ## Roles I'm Qualified for...
 
-### Full Stack Software Engineer and Cybersecurity Evangelist 
+### Full Stack Software Engineer and Cybersecurity Specialist 
 
 I specialize in full stack software engineering with strong experience in both frontend and backend development using Node.js, Django, and React. I focus on writing code that is secure, maintainable, and highly performant. I’ve deployed scalable applications to AWS and Azure using GitHub Actions, and I’m proficient with Docker, CI/CD, and microservice architectures.
 
